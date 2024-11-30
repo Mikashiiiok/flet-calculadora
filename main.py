@@ -30,7 +30,7 @@ def main(page: Page):
         bgcolor=colors.WHITE,
         border_radius=10,
         color=colors.BLACK,
-        text_size=24,  # Cambiado font_size a text_size
+        text_size=24,  
     )
 
     def update_display():
